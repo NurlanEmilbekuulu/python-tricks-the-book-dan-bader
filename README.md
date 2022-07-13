@@ -1,1 +1,2 @@
-# python-tricks-the-book-dan-bader
+# Book: Python tricks: The book
+# Author: Dan Bader
