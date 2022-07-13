@@ -1,2 +1,2 @@
-# Book: Python tricks: The Book
+# Book: Python Tricks: The Book
 # Author: Dan Bader
